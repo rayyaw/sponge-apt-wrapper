@@ -1,0 +1,5 @@
+# Temp files created by Rust
+Cargo.lock
+
+# Built files
+target/
